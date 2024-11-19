@@ -182,7 +182,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A,D
 
     Explanation:
     - EBS -> automates deploying code and provisioning infrastructure
@@ -217,7 +217,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: A,B
 
     Explanation: <https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/>
 
@@ -232,7 +232,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AE
+    Correct Answer: A,E
 
     Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/potential-account-compromise/>
 
@@ -317,7 +317,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AE
+    Correct Answer: A,E
 
     Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-basics/>
 
@@ -381,7 +381,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: A,B
 
     Explanation: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html>
 
@@ -415,7 +415,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B,D
 
     Explanation: <https://aws.amazon.com/hybrid/>
 
@@ -498,7 +498,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: A,B
 
     Explanation: <https://aws.amazon.com/partners/aws-marketplace/>
 
@@ -528,7 +528,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B,E
 
     Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
@@ -638,7 +638,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A,C
 
     </details>
 
@@ -724,7 +724,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A,C
 
     Explanation:
     - <https://aws.amazon.com/cloudfront/>
