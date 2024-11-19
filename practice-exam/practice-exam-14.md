@@ -95,7 +95,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A,C
 
     </details>
 
@@ -120,7 +120,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B,E
 
     Explanation:
     - <https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/>
@@ -198,7 +198,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B,C
 
     Explanation:
     - Penetration testing is not correct, because it can be done by customers on their own resources.
@@ -441,7 +441,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B,C
 
     Explanation:
     - <https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-on-premises.html>
@@ -475,7 +475,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
+    Correct Answer: C,E
 
     </details>
 
@@ -629,7 +629,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B,E
 
     </details>
 
@@ -662,7 +662,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B,E
 
     Explanation:
     - If you decided to create service accounts (that is, accounts used for programmatic access by applications running outside of the AWS environment) and generate access keys for them, you should create a dedicated service account for each use case.
@@ -798,7 +798,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B, E
+    Correct Answer: B,E
 
     Explanation:
     - AWS Training and Certification builds your competence, confidence, and credibility through practical cloud skills that help you innovate and build your future.
@@ -819,7 +819,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CD
+    Correct Answer: C,D
 
     Explanation:
     - Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
