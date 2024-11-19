@@ -43,7 +43,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: DE
+    Correct Answer: D,E
 
     Explanation: <https://aws.amazon.com/organizations/>
 
@@ -100,7 +100,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B,D
 
     Explanation: <https://aws.amazon.com/directconnect/faqs/>
 
@@ -115,7 +115,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A,C
 
     Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
@@ -324,7 +324,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A,D
 
     Explanation: <https://blog.newrelic.com/engineering/best-cloud-infrastructure-automation-tools/>
 
@@ -379,7 +379,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A,C
 
     Explanation: <https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html>
 
@@ -394,7 +394,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A,D
 
     Explanation: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html>
 
@@ -565,7 +565,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: DE
+    Correct Answer: D,E
 
     </details>
 
@@ -664,7 +664,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A,D
 
     </details>
 
@@ -677,7 +677,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A,C
 
     </details>
 
